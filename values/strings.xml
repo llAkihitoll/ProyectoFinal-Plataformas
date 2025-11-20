@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="values">values</string>
+    <string name="profile_welcome">Welcome, %1$s!</string>
+    <string name="switch_to_light">Switch to Light Mode</string>
+    <string name="switch_to_dark">Switch to Dark Mode</string>
+    <string name="change_language">Change Language</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="logout">Log Out</string>
+    <string name="how_healthy">How healthy?</string>
+    <string name="how_enjoyable">How enjoyable?</string>
+    <string name="how_important">How important?</string>
+    <string name="done">Done</string>
+    <string name="wake_up">Wake Up</string>
+    <string name="character_sleeping">%1$s sleeping</string>
+    <string name="rest">Rest</string>
+    <string name="login_title">Welcome!</string>
+    <string name="username_label">Username</string>
+    <string name="login_button">Login</string>
+    <string name="prompt_register">Do not have an account? Register</string>
+    <string name="error_user_not_found">User not found. Please register.</string>
+    <string name="error_username_blank">Please enter a username.</string>
+    <string name="register_title">Register</string>
+    <string name="register_button">Register</string>
+    <string name="error_username_taken">Username already taken.</string>
+    <string name="profile_title">Profile</string>
+    <string name="profile_username">Username: %1$s</string>
+    <string name="profile_language">Language: %1$s</string>
+    <string name="profile_theme">Theme: %1$s</string>
+    <string name="character_face">Character Face</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="rest_title">Rest</string>
+    <string name="rest_button">Rest</string>
+    <string name="profile_logout">Log Out</string>
+    <string name="profile_back_to_main">Back to Main</string>
+    <string name="back_to_login"> Back to Login</string>
+    <string name="error_user_exists">User already exists.</string>
+    <string name="profile">Profile</string>
+    <string name="background">Background</string>
+
+
+
+
+
+
+
+
+</resources >
